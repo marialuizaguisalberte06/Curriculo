@@ -4,7 +4,7 @@
 <h2>Sobre mim</h2>
 <ul> 
   <li>Estagiária de Tecnologia</li>
-  <li>Instrutora de cursos de Python e HTML/CSS/li>
+  <li>Instrutora de cursos de Python e HTML/CSS</li>
   <li>Sempre aprendendo e construindo projetos práticos</li>
   <li>Estudante de Ciências da Computação na Universidade Cruzeiro do Sul</li>
 </ul>
